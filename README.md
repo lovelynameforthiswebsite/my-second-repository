@@ -1,4 +1,4 @@
-i deleted everything and added this text here.
+this repo is comepeltly done ny me the GREAT masterTORK
 
-and today i added this line in sep 30th
+feel free to fork it and do everything you want with it
 
