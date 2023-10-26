@@ -1,4 +1,7 @@
-i deleted everything and added this text here.
+oct-26th-2023
 
-and today i added this line in sep 30th
+changed the README.md file for personal test as the pull request 
+course said
+
+changed the markdown file using "nano"
 
